@@ -1,0 +1,17 @@
+{
+  "name": "challenge-syngenta",
+  "version": "1.0.0",
+  "description": "Um Projeto para escolher a melhor opção de diario de um hotel",
+  "main": "app.js",
+  "repository": "https://github.com/tiagow8/challenge-syngenta-digital.git",
+  "bugs": "https://github.com/tiagow8/challenge-syngenta-digital.git",
+  "author": {
+    "name": "Tiago Gomes",
+    "email": "tiagogomed81@gmail.com"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "node ./tests/index.js"
+  },
+  "license": "MIT"
+}
